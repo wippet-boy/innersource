@@ -9,7 +9,7 @@
 - [Github-overview](github-overview/)
 
 ### Creating an InnerSource Culture
-- [Understand ing cultural ingredients](cultural-ingredients/)
+- [Understanding cultural ingredients](cultural-ingredients/)
 - [Working through cultural resistance](cultural-resistance/)
 
 ### Developer Enablement
